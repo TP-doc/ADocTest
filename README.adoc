@@ -1,0 +1,5 @@
+= Continuous documentation template
+
+This project is used to describe how to write some documentation using Asciidoctor and publish it using the Github pages via a CI server.
+
+For more information you can read the related http://gscheibel.net/2016/05/15/Hosting-static-documentation-with-Asciidoctor-and-GH-pages.html[blog post]
