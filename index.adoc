@@ -1,0 +1,4 @@
+= Continuous documentation template
+:includedir: includes
+
+How to create a living documentation!
