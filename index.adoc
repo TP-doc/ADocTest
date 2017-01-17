@@ -20,7 +20,7 @@
 * Erstellen eigener Update-Pakete
 * Aufbau eines eigenen Auto-Update-Servers
 * Grundeinstellungen herstellen
-* Selbstzerstörung (Demo Ereignisse, Aktionen, Timer)
+* Selbstzerstörung (Demo-Ereignisse, Aktionen, Timer)
 
 == ASCII-Konfig und LUA
 * Überwachen von Ethernetgeräten mit PING, Auslösen einer Aktion
