@@ -12,7 +12,7 @@
 * Debugging mit den integrierten Tools (Ping, nslookup, traceroute, AT-Befehle)
 
 == Zusatzfeatures
-* Einstellungen sichern und wieder aufspielen (Profile managen)
+* Einstellungen sichern und wieder aufspielen (Profile verwalten)
 * Konfiguration zeitabhängiger Aktionen, z.B. NTP-Update, Auto-Update
 * Selbständiger Fallback nach Firmwareupdate oder Profilwechsel
 * Spiegeln des Zustandes von Eingängen zu Ausgängen über das Internet mit MCIP
